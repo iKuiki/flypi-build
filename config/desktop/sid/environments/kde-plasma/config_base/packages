@@ -34,7 +34,6 @@ fonts-symbola
 foomatic-db-compressed-ppds
 gdebi
 ghostscript-x
-gnome-orca
 gnome-screenshot
 gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
@@ -88,6 +87,7 @@ policykit-1
 printer-driver-all
 profile-sync-daemon
 pulseaudio-module-bluetooth
+plasma-workspace-wayland
 redshift
 samba
 slick-greeter
